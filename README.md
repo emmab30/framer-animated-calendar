@@ -1,6 +1,6 @@
 Animated Calendar using framer-motion on Next.js
 
-![Demo](https://i.ibb.co/q5gQ6tH/framer-animated-calendar.gif)
+![Demo](https://adibus.dev/libraries/framer-animated-calendar.gif)
 
 ## Or try it live: https://adibus.dev/framer-animated-calendar
 
